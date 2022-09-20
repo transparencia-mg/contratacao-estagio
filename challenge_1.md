@@ -1,7 +1,7 @@
 ## Expected outcome:
 
-A git repository with dataset and script located in GitHub.
-A short (~2-3 minutes) video presentation of your git repository explaining what you have done and how it works. Please, use https://loom.com/ or similar software. We would like to assess your presentation skills so having your camera on would be a good advantage.
+- A git repository with dataset and script located in GitHub.
+- A short (~2-3 minutes) video presentation of your git repository explaining what you have done and how it works. Please, use https://loom.com/ or similar software. We would like to assess your presentation skills so having your camera on would be a good advantage.
 
 ## Challenge
 
@@ -21,5 +21,5 @@ A short (~2-3 minutes) video presentation of your git repository explaining what
 ## Bonus items:
 
 - Make your repository into a Tabular Data Package - here’s a [guide](https://datahub.io/docs/data-packages/publish-tabular).
-Build a chart from the data to display some interesting insight. Feel free to play around with the visualization.
-Make sure your chart is deployed to GitHub pages or somewhere else so we can take a look.
+- Build a chart from the data to display some interesting insight. Feel free to play around with the visualization.
+- Make sure your chart is deployed to GitHub pages or somewhere else so we can take a look.
