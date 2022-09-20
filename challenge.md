@@ -8,6 +8,7 @@
 - Write a script to get a reproducible normalized CSV data file of Road Safety Facts and Figures in the EU.
 - Include both script and your resulting data. 
 - The documentation should be included in the README.md file and it must be clear to follow.
+- The github repo should include anwsers to [this questions](https://github.com/transparencia-mg/contratacao-estagio/blob/main/questionario.md).
 
 ## More details:
 
